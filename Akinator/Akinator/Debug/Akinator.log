@@ -1,0 +1,6 @@
+﻿  Akinator.cpp
+  source.cpp
+  Generando código...
+c:\users\frodo\desktop\akinator.cpp(39): warning C4715: 'Akinator::preguntar': no todas las rutas de acceso de control devuelven un valor
+c:\users\frodo\desktop\akinator.cpp(22): warning C4717: 'Akinator::pivote': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
+  Akinator.vcxproj -> C:\Users\frodo\Desktop\Akinator\Debug\Akinator.exe
